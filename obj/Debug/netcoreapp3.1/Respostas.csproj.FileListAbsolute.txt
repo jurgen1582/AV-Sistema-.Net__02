@@ -1,0 +1,42 @@
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\bin\Debug\netcoreapp3.1\Respostas.exe
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\bin\Debug\netcoreapp3.1\Respostas.deps.json
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\bin\Debug\netcoreapp3.1\Respostas.runtimeconfig.json
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\bin\Debug\netcoreapp3.1\Respostas.runtimeconfig.dev.json
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\bin\Debug\netcoreapp3.1\Respostas.dll
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\bin\Debug\netcoreapp3.1\Respostas.pdb
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\obj\Debug\netcoreapp3.1\Respostas.csproj.AssemblyReference.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\obj\Debug\netcoreapp3.1\Respostas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\obj\Debug\netcoreapp3.1\Respostas.AssemblyInfoInputs.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\obj\Debug\netcoreapp3.1\Respostas.AssemblyInfo.cs
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\obj\Debug\netcoreapp3.1\Respostas.csproj.CoreCompileInputs.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\obj\Debug\netcoreapp3.1\Respostas.dll
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\obj\Debug\netcoreapp3.1\Respostas.pdb
+C:\Users\jurge\OneDrive\Área de Trabalho\Nova pasta\Respostas\obj\Debug\netcoreapp3.1\Respostas.genruntimeconfig.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\bin\Debug\netcoreapp3.1\Respostas.exe
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\bin\Debug\netcoreapp3.1\Respostas.deps.json
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\bin\Debug\netcoreapp3.1\Respostas.runtimeconfig.json
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\bin\Debug\netcoreapp3.1\Respostas.runtimeconfig.dev.json
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\bin\Debug\netcoreapp3.1\Respostas.dll
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\bin\Debug\netcoreapp3.1\Respostas.pdb
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\obj\Debug\netcoreapp3.1\Respostas.csproj.AssemblyReference.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\obj\Debug\netcoreapp3.1\Respostas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\obj\Debug\netcoreapp3.1\Respostas.AssemblyInfoInputs.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\obj\Debug\netcoreapp3.1\Respostas.AssemblyInfo.cs
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\obj\Debug\netcoreapp3.1\Respostas.csproj.CoreCompileInputs.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\obj\Debug\netcoreapp3.1\Respostas.dll
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\obj\Debug\netcoreapp3.1\Respostas.pdb
+C:\Users\jurge\OneDrive\Área de Trabalho\Resposta Teste Logica\Respostas\obj\Debug\netcoreapp3.1\Respostas.genruntimeconfig.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\bin\Debug\netcoreapp3.1\Respostas.exe
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\bin\Debug\netcoreapp3.1\Respostas.deps.json
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\bin\Debug\netcoreapp3.1\Respostas.runtimeconfig.json
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\bin\Debug\netcoreapp3.1\Respostas.runtimeconfig.dev.json
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\bin\Debug\netcoreapp3.1\Respostas.dll
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\bin\Debug\netcoreapp3.1\Respostas.pdb
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\obj\Debug\netcoreapp3.1\Respostas.csproj.AssemblyReference.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\obj\Debug\netcoreapp3.1\Respostas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\obj\Debug\netcoreapp3.1\Respostas.AssemblyInfoInputs.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\obj\Debug\netcoreapp3.1\Respostas.AssemblyInfo.cs
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\obj\Debug\netcoreapp3.1\Respostas.csproj.CoreCompileInputs.cache
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\obj\Debug\netcoreapp3.1\Respostas.dll
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\obj\Debug\netcoreapp3.1\Respostas.pdb
+C:\Users\jurge\OneDrive\Área de Trabalho\curiculo\Resposta Teste Logica\Resposta 1\obj\Debug\netcoreapp3.1\Respostas.genruntimeconfig.cache
